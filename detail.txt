@@ -11,3 +11,5 @@ final
 git diff 版本 版本  <<< 版本差異
 github1s 可以直接使用vsCode看
 git clone https://github.com/mlouielu/twstock.git 網路github下載專案至我的git
+git pull origin master   <<< 從github拉下來
+git push -u origin master    <<< 上傳至github
