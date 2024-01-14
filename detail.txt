@@ -4,4 +4,6 @@ git add .  <<< 丟上暫存區
 git commit -m "XXX" <<<   存入且記錄版本名稱
 git 在vsCode的Ui為左邊第三個 good
 11111
-
+gitk 顯示reflog
+git graph
+git 在vsCode的Ui為左邊第三個上排第四個
