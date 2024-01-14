@@ -1,4 +1,4 @@
-git init <<< 初始化
+g9t init <<< 初始化
 git status   <<< 目前狀態
 git add .  <<< 丟上暫存區
 git commit -m "XXX" <<<   存入且記錄版本名稱
@@ -8,3 +8,4 @@ gitk 顯示reflog
 git graph
 git 在vsCode的Ui為左邊第三個上排第四個
 final
+git diff 版本 版本
