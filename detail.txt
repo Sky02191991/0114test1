@@ -7,3 +7,4 @@ git 在vsCode的Ui為左邊第三個 good
 gitk 顯示reflog
 git graph
 git 在vsCode的Ui為左邊第三個上排第四個
+final
